@@ -1,0 +1,1 @@
+$(".headerpage").load("/header.html"); 
